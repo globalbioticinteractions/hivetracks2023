@@ -19,8 +19,8 @@
       "rdfs:comment": [
         "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"
       ],
-      "url": "https://docs.google.com/spreadsheets/d/1IoftGB5BTp6oLIFGCvaGEEoVtA0H3VLA/export?format=tsv&id=1IoftGB5BTp6oLIFGCvaGEEoVtA0H3VLA&gid=814973786",
-      "dcterms:bibliographicCitation": "Rocío Ana González-Vaquero, Mariano Devoto. 2023. Plant-flower visitor interactions recorded in 49 sites in Argentina (Buenos Aires: Carlos Casares county) by Marcos Monasterolo (2013-15) and Antonio López Carretero (2016)",
+      "url": "https://docs.google.com/spreadsheets/d/16DdO55ukMlkfYtJ05FuYSnwrSwNU2QIAAIQT14VF0EM/export?format=tsv&id=16DdO55ukMlkfYtJ05FuYSnwrSwNU2QIAAIQT14VF0EM&gid=776329546",
+      "dcterms:bibliographicCitation": "Max Rünzel, Drew Robinson. 2023. HiveTracks WorldFAIR Test Data",
       "delimiter": "\t",
       "headerRowCount": 6,
       "null": [

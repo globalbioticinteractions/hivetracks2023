@@ -1,71 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ns0:eml xmlns:ns0="https://eml.ecoinformatics.org/eml-2.2.0" packageId="" system="" scope="system" xml:lang="eng">
   <dataset xmlns:ns2="https://eml.ecoinformatics.org/dataset-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" scope="document" xsi:type="ns2:dataset">
-    <title>Plant-flower visitor interactions recorded in 49 sites in Argentina (Buenos Aires: Carlos Casares county) by Marcos Monasterolo (2013-15) and Antonio López Carretero (2016)</title>
+    <title>HiveTracks WorldFAIR Test Data</title>
     <creator scope="document">
       <individualName>
-        <givenName>Rocío</givenName>
-        <givenName>Ana</givenName>
-        <surName>González-Vaquero</surName>
+        <givenName>Max</givenName>
+        <surName>Rünzel</surName>
       </individualName>
       <individualName>
         <givenName/>
-        <givenName>Mariano</givenName>
-        <surName>Devoto</surName>
+        <givenName>Drew</givenName>
+        <surName>Robinson</surName>
       </individualName>
-      <organizationName>Facultad de Agronomía Universidad de Buenos Aires (FAUBA)</organizationName>
+      <organizationName>HiveTracks</organizationName>
+      <organizationName> Inc.</organizationName>
       <address scope="document">
-        <city>Buenos Aires</city>
-        <country>Argentina</country>
+        <city>Boone</city>
+        <country>United States of America</country>
       </address>
-      <electronicMailAddress>rvaquero@agro.uba.ar</electronicMailAddress>
-      <electronicMailAddress> mdevoto@agro.uba.ar</electronicMailAddress>
+      <electronicMailAddress>max@hivetracks.com</electronicMailAddress>
+      <electronicMailAddress> drew@hivetracks.com</electronicMailAddress>
     </creator>
-    <abstract>2471 records of plant-flower visitor interactions, recorded in 49 sites in Argentina (Buenos Aires: Carlos Casares county). The records were taken in the field by Marcos Monasterolo and Antonio López Carretero, curated by Julia Tavella, and transformed to meet FAIR principles by Rocío Ana González Vaquero. Morphospecies are detailed in identificationRemarks. Data collection was supported by FONCyT, UBA, CONICET, Fundación Banco Galicia, and Syngenta Agro, Argentina. Data standardization was supported by grant European Commission-EU 101058393.  </abstract>
+    <abstract/>
     <keywordSet>
-      <keyword>REBIPP</keyword>
-      <keyword> Darwin Core</keyword>
-      <keyword> pollination</keyword>
-      <keyword> pollinator</keyword>
-      <keyword> flower</keyword>
-      <keyword> biodiversity information</keyword>
+      <keyword>Beekeeping</keyword>
+      <keyword> Inspection</keyword>
+      <keyword> Record</keyword>
     </keywordSet>
-    <intellectualRights>2471 records of plant-flower visitor interactions, recorded in 49 sites in Argentina (Buenos Aires: Carlos Casares county). The records were taken in the field by Marcos Monasterolo and Antonio López Carretero, curated by Julia Tavella, and transformed to meet FAIR principles by Rocío Ana González Vaquero. Morphospecies are detailed in identificationRemarks. Data collection was supported by FONCyT, UBA, CONICET, Fundación Banco Galicia, and Syngenta Agro, Argentina. Data standardization was supported by grant European Commission-EU 101058393.  </intellectualRights>
+    <intellectualRights/>
     <licensed>
       <licenseName/>
       <url/>
     </licensed>
     <coverage scope="document">
       <geographicCoverage scope="document">
-        <geographicDescription>Argentina: Buenos Aires: Carlos Casares</geographicDescription>
+        <geographicDescription/>
       </geographicCoverage>
       <temporalCoverage xmlns:ns4="https://eml.ecoinformatics.org/coverage-2.2.0" xsi:type="ns4:TemporalCoverage">
         <rangeOfDates>
-          <beginDate>
-            <calendarDate>2013-11-19</calendarDate>
-          </beginDate>
-          <endDate>
-            <calendarDate>2016-02-29</calendarDate>
-          </endDate>
+          <beginDate/>
+          <endDate/>
         </rangeOfDates>
       </temporalCoverage>
       <taxonomicCoverage xmlns:ns4="https://eml.ecoinformatics.org/coverage-2.2.0" xsi:type="ns4:TaxonomicCoverage">
-        <generalTaxonomicCoverage>Plantae: Angiospermae. Insecta: Diptera, Hymenoptera and Lepidoptera.</generalTaxonomicCoverage>
+        <generalTaxonomicCoverage/>
       </taxonomicCoverage>
     </coverage>
     <methods xmlns:ns4="https://eml.ecoinformatics.org/methods-2.2.0" xsi:type="ns4:methods">
       <sampling>
-        <samplingDescription>One 100 m-long “variable transect” was walked by one trained observer for 40 minutes (Monasterolo et al. 2020).</samplingDescription>
+        <samplingDescription/>
       </sampling>
     </methods>
     <project scope="document">
-      <title>Global cooperation on FAIR data policy and practice (WorldFAIR)</title>
-      <funding>European Commission-EU, Grant Agreement No 101058393 </funding>
+      <title/>
+      <funding/>
     </project>
     <dataTable scope="document">
       <entityName>interactions.tsv</entityName>
       <physical scope="document">
-        <objectName>https://docs.google.com/spreadsheets/d/1IoftGB5BTp6oLIFGCvaGEEoVtA0H3VLA</objectName>
+        <objectName>https://docs.google.com/spreadsheets/d/16DdO55ukMlkfYtJ05FuYSnwrSwNU2QIAAIQT14VF0EM</objectName>
         <dataFormat>
           <textFormat>
             <numHeaderLines>6</numHeaderLines>
@@ -76,7 +69,7 @@
         </dataFormat>
         <distribution scope="document">
           <online>
-            <url function="download">https://docs.google.com/spreadsheets/d/1IoftGB5BTp6oLIFGCvaGEEoVtA0H3VLA/export?format=tsv&amp;id=1IoftGB5BTp6oLIFGCvaGEEoVtA0H3VLA&amp;gid=814973786</url>
+            <url function="download">https://docs.google.com/spreadsheets/d/16DdO55ukMlkfYtJ05FuYSnwrSwNU2QIAAIQT14VF0EM/export?format=tsv&amp;id=16DdO55ukMlkfYtJ05FuYSnwrSwNU2QIAAIQT14VF0EM&amp;gid=776329546</url>
           </online>
         </distribution>
       </physical>
@@ -1067,9 +1060,9 @@
           <storageType typeSystem="http://www.w3.org/2001/XMLSchema-datatypes">string</storageType>
         </attribute>
       </attributeList>
-      <numberOfRecords>2471</numberOfRecords>
+      <numberOfRecords>0</numberOfRecords>
     </dataTable>
-    <referencePublication>Monasterolo M, Poggio SL, Medan D, Devoto M. 2022. High flower richness and abundance decrease pollen transfer on individual plants in road verges but increase it in adjacent fields in intensively managed agroecosystems. Agriculture, Ecosystems &amp; Environment 333, 107952. https://doi.org/10.1016/j.agee.2022.107952</referencePublication>
+    <referencePublication/>
     <literatureCited/>
   </dataset>
 </ns0:eml>
