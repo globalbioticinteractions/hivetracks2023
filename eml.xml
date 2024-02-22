@@ -74,6 +74,11 @@
         </distribution>
       </physical>
       <attributeList>
+        <attribute id="sourceCatalogNumber" scope="document">
+          <attributeName>Catalog Number</attributeName>
+          <attributeDefinition>http://rs.tdwg.org/dwc/terms/catalogNumber</attributeDefinition>
+          <storageType typeSystem="http://www.w3.org/2001/XMLSchema-datatypes">string</storageType>
+        </attribute>
         <attribute id="sourceRecordNumber" scope="document">
           <attributeName>Record Number</attributeName>
           <attributeDefinition>http://rs.tdwg.org/dwc/terms/recordNumber</attributeDefinition>
